@@ -1,4 +1,4 @@
-module github.com/oxequa/realize
+module github.com/mvn-duypham-hn/realize
 
 go 1.14
 
